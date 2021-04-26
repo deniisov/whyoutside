@@ -4,6 +4,7 @@ $(document).ready(function () {
         $('body').toggleClass('lock');
     })
 })
+
 AOS.init({
     // Global settings:
     disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
