@@ -232,6 +232,21 @@ img {
   }
 }
 
+
+.rotate{  
+  -webkit-transition: 0.25s all;
+  transition: 0.25s all;
+}
+
+.rotate:hover {
+  -webkit-transform: scale(0.95) rotateZ(5deg);
+  -ms-transform: scale(0.95) rotateZ(5deg);
+  transform: scale(0.95) rotateZ(5deg);
+
+  -webkit-transition: 0.25s all;
+  transition: 0.25s all;
+}
+
 .presentation__title {
   font-family: "Patrick Hand";
   text-align: center;
