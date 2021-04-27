@@ -3,7 +3,7 @@ html{
 }
 
 body {
-  font-family: "Patrick Hand", cursive;
+  font-family: "Balsamiq Sans", cursive;
 }
 
 @media (max-width: 930px) {
@@ -233,6 +233,7 @@ img {
 }
 
 .presentation__title {
+  font-family: "Patrick Hand";
   text-align: center;
   font-size: 90px;
   color: #fff;
@@ -314,24 +315,24 @@ img {
 }
 
 .orange__info-text {
-  font-size: 36px;
+  font-size: 26px;
   color: #882029;
   line-height: 45px;
 }
 
 .orange__info-text:first-child {
-  padding-bottom: 30px;
+  padding-bottom: 25px;
 }
 
 @media (max-width: 768px) {
   .orange__info-text {
-    font-size: 30px;
+    font-size: 26px;
   }
 }
 
 @media (max-width: 490px) {
   .orange__info-text {
-    font-size: 25px;
+    font-size: 26px;
     line-height: 40px;
   }
 }
@@ -445,7 +446,7 @@ img {
 }
 
 .blue__info-text {
-  font-size: 36px;
+  font-size: 26px;
   color: #43525d;
   line-height: 45px;
 }
@@ -456,13 +457,13 @@ img {
 
 @media (max-width: 768px) {
   .blue__info-text {
-    font-size: 30px;
+    font-size: 26px;
   }
 }
 
 @media (max-width: 490px) {
   .blue__info-text {
-    font-size: 25px;
+    font-size: 26px;
     line-height: 40px;
   }
 }
