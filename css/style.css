@@ -628,3 +628,12 @@ img {
   -o-object-fit: cover;
      object-fit: cover;
 }
+.designed {
+  font-family: "Comfortaa";
+  color:#fff;
+  position:absolute;
+  left: 50%;
+  bottom: 0%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
